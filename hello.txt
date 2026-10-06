@@ -1,2 +1,3 @@
 Hello World...!
-Added a second Hello worl
+Added a second Hello world
+Fixed a typo
